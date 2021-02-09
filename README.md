@@ -6,3 +6,5 @@ Repositório criado em live!
 Esta linha eu adicionei diretamente pelo GitHub
 
 Praticando novamente os Commit do readme
+
+PraTICANDO COMMIT ONLINE
